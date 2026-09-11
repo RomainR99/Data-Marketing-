@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.csv": "csv"
+  },
+  "editor.semanticHighlighting.enabled": true,
+
+  //c'est pour les gros fichiers, pour colorer les csv avec Rainbow csv
+  //"editor.largeFileOptimizations": false
+
+  
+}
